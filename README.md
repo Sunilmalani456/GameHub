@@ -2,8 +2,6 @@
 
 GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more. 
 
-This is the project we build in my Ultimate React course. You can find the full course at: https://codewithmosh.com 
-
 ## Getting Started
 
 To get started with GameHub, follow these steps:
@@ -15,9 +13,7 @@ To get started with GameHub, follow these steps:
 4. Add the API key to **src/services/api-client.ts**
 5. Run `npm run dev` to start the web server. 
 
-## About the Course 
-
-I have designed this course to teach you everything you need to know to become a proficient React developer. This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
+## About the Project
 
 - Build front-end apps with React and TypeScript
 - Build reusable function components
@@ -31,7 +27,10 @@ I have designed this course to teach you everything you need to know to become a
 - Write clean code like a pro
 - Apply best practices
 
-
-By the end of this course, you'll have a solid understanding of React and be able to build real-world applications with React and TypeScript.
-
-You can find the full course at: https://codewithmosh.com 
+## Built With
+ 
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Hook Form](https://react-hook-form.com/)
+- [React Router](https://reactrouter.com/)
+- [React Query](https://react-query.tanstack.com/)
